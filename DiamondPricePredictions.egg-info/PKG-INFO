@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: DiamondPricePredictions
+Version: 0.0.1
+Author: Krish
+Author-email: krish.naik@pw.live
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Requires-Dist: flask
