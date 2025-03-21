@@ -53,6 +53,7 @@ cover/
 venvt/
 artifacts/
 logs/
+notebook/
 
 
 # Translations
