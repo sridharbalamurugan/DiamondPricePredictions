@@ -55,6 +55,13 @@ artifacts/
 logs/
 notebook/
 
+__pycache__/
+*.pyc
+*.pkl
+*.csv
+.DS_Store
+
+
 
 # Translations
 *.mo
@@ -134,9 +141,9 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+.venvt
 env/
-venv/
+venvt/
 ENV/
 env.bak/
 venv.bak/
